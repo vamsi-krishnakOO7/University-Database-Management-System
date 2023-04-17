@@ -16,14 +16,14 @@ This is a project I made for the "Database Management Systems" course I took dur
 </ul>
 <h4 align="left">Features and Interface</h4>
 <h5 align="left">Login Interface</h5>
-<img align="center" alt="Login" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Login_page.jpg">
-<h5 align="left">Splash Screen</h5>
-<img align="center" alt="Login" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Splash_Screen.jpg">
+<img align="center" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Login_page.jpg">
+<h5 align="left">Home Screen</h5>
+<img align="center" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Splash_Screen.jpg">
 <h5 align="left">Faculty and Student Registration</h5>
-<img align="center" alt="Login" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Student_Reg.jpg">
+<img align="center" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Student_Reg.jpg">
 <img align="center" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Faculty_Reg.jpg">
 <h5 align="left">Student Details</h5>
-<img align="center" alt="Login" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Student_Details.jpg">
+<img align="center" width="400" src="https://github.com/vamsi-krishnakOO7/University-Database-Management-System/blob/master/Student_Details.jpg">
 <h4>Other Features</h4>
 <ul>
 <li>Faculty Details</li>
